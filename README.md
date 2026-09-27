@@ -1,39 +1,138 @@
-#8051 and 8086 Assembly Programs
+# Microprocessor & Microcontroller Lab Programs
 
-This repository contains the Assembly Language programs implemented as part of the Microprocessor and Microcontroller course.
+This repository contains the **8086 Microprocessor** and **8051 Microcontroller** Assembly Language programs implemented as part of the **Microprocessor and Microcontroller Laboratory** course.
 
-The programs cover basic arithmetic operations, logical operations, data transfer, branching, sorting, and other fundamental concepts of 8051 microcontroller and 8086 microprocessor programming.
+## Repository Contents
 
-Contents
-8051 Microcontroller
+The repository is divided into two sections:
 
-Programs written for the 8051 microcontroller, covering:
+* **8051 Microcontroller Programs**
+* **8086 Microprocessor Programs**
 
-Arithmetic operations
-Data transfer
-Logical operations
-Bit manipulation
-Delay generation
-I/O programming
-Timer and counter operations
-Other basic 8051 programming exercises
-8086 Microprocessor
+---
 
-Assembly programs written for the Intel 8086 microprocessor, covering:
+# 8051 Microcontroller Programs
 
-Addition and subtraction
-Multiplication and division
-Data transfer
-Logical operations
-Array operations
-Sorting
-Searching
-String operations
-Other fundamental 8086 programming exercises
-Tools / Environment
-8051 Assembly
-8086 Assembly
-Microprocessor/Microcontroller simulation tools as applicable
-Purpose
+This section contains Assembly Language programs implemented for the **8051 microcontroller**.
 
-The repository is maintained as a collection of academic and practical programs developed while studying Microprocessors and Microcontrollers.
+## Programs Included
+
+* Addition of two numbers
+* Subtraction of two numbers
+* Immediate Addressing Mode
+* Direct Addressing Mode
+* Indirect Addressing Mode
+* Interrupt Programming
+* Other basic 8051 Assembly programs
+
+## Concepts Covered
+
+* 8051 architecture and registers
+* Data transfer instructions
+* Arithmetic operations
+* Addressing modes
+* Bit manipulation
+* Interrupt programming
+* I/O programming
+* Basic microcontroller programming
+
+---
+
+# 8086 Microprocessor Programs
+
+This section contains Assembly Language programs implemented for the **Intel 8086 microprocessor**.
+
+## Programs Included
+
+* Addition
+* Multiplication
+* Division
+* Flag Determination
+* LED Display
+* Other basic 8086 Assembly programs
+
+## Concepts Covered
+
+* 8086 registers
+* Data transfer instructions
+* Arithmetic operations
+* Logical operations
+* Flag manipulation
+* Branching and looping
+* Basic interfacing
+* Assembly Language programming
+
+---
+
+# Tools & Technologies
+
+* **8051 Microcontroller**
+* **Intel 8086 Microprocessor**
+* **Assembly Language**
+* **MCU 8051 IDE**
+* **8086 Assembly/Simulation Environment**
+
+---
+
+# Learning Objectives
+
+The programs in this repository demonstrate practical implementation of:
+
+* Assembly Language programming
+* Data transfer operations
+* Arithmetic and logical operations
+* Addressing modes
+* Register operations
+* Flag manipulation
+* Interrupt programming
+* Microprocessor interfacing
+* Microcontroller programming
+* Hardware-oriented programming concepts
+
+---
+
+# Repository Structure
+
+```text
+Microprocessor-Assembly-Programs/
+│
+├── 8051/
+│   ├── Addition
+│   ├── Subtraction
+│   ├── Addressing Modes
+│   ├── Interrupt Programming
+│   └── Other Programs
+│
+├── 8086/
+│   ├── Addition
+│   ├── Multiplication
+│   ├── Division
+│   ├── Flag Determination
+│   ├── LED Display
+│   └── Other Programs
+│
+└── README.md
+```
+
+---
+
+# Course Information
+
+**Course:** Microprocessor & Microcontroller Laboratory
+
+**Program:** B.Tech – Electrical & Electronics Engineering
+
+---
+
+# Author
+
+**Ankita Kumari Satapathy**
+
+B.Tech – Electrical & Electronics Engineering
+
+---
+
+# Purpose
+
+This repository is maintained for **academic, learning, and reference purposes** and contains programs developed during the Microprocessor & Microcontroller laboratory coursework.
+
